@@ -1,7 +1,16 @@
 # Virtual Whiteboard
 
-<img width="946" height="247" alt="image" src="https://github.com/user-attachments/assets/c68cc75c-c309-4caf-82cd-31f913dfd387" />
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/user-attachments/assets/c68cc75c-c309-4caf-82cd-31f913dfd387"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/user-attachments/assets/e4d229ba-4485-4f03-be3b-5d1bc2b4194f"
+  />
+  <img width="946" height="240" alt="virtual board" src="https://github.com/user-attachments/assets/c68cc75c-c309-4caf-82cd-31f913dfd387" />
+</picture>
 
 A real-time virtual whiteboard application that combines live camera feed with interactive drawing capabilities. The application overlays a transparent drawing canvas on top of the camera feed, allowing users to draw annotations while viewing the live video stream.
 
