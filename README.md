@@ -20,9 +20,11 @@ A real-time virtual whiteboard application that combines live camera feed with i
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?perline=7&theme=dark&i=python,qt,opencv,docker" alt="Tech Stack Icons" />
-mediapipe,numpy
-
+<div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=python,qt,opencv,docker" alt="Tech Stack Icons" />
+  <img src="https://viz.mediapipe.dev/logo.png" alt="MediaPipe" style="height: 48px; width: auto;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlti82BNNu7d3nfwoPgJwfQf-qZvqaIq2cazgVGIOP1g&s" alt="NumPy" style="height: 48px; width: auto;" />
+</div>
 
 - **Python 3.11/3.12** - Core programming language
 - **PySide6** - Qt framework for cross-platform GUI development
