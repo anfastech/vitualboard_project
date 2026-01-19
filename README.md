@@ -1,20 +1,7 @@
 # Virtual Whiteboard
 
-<pre style="color: #00ff00; font-family: monospace; background-color: transparent; border: none; padding: 0; margin: 0;">
-                           ___                                    ,--,                                                              
-       ,---.   ,--,      ,--.'|_                                ,--.'|      ,---,                                             ,---, 
-      /__./| ,--.'|      |  | :,'           ,--,                |  | :    ,---.'|       ,---.                   __  ,-.     ,---.'| 
- ,---.;  ; | |  |,       :  : ' :         ,'_ /|                :  : '    |   | :      '   ,'\                ,' ,'/ /|     |   | : 
-/___/ \  | | `--'_     .;__,'  /     .--. |  | :     ,--.--.    |  ' |    :   : :     /   /   |    ,--.--.    '  | |' |     |   | | 
-\   ;  \ ' | ,' ,'|    |  |   |    ,'_ /| :  . |    /       \   '  | |    :     |,-. .   ; ,. :   /       \   |  |   ,'   ,--.__| | 
- \   \  \: | '  | |    :__,'| :    |  ' | |  . .   .--.  .-. |  |  | :    |   : '  | '   | |: :  .--.  .-. |  '  :  /    /   ,'   | 
-  ;   \  ' . |  | :      '  : |__  |  | ' |  | |    \__\/: . .  '  : |__  |   |  / : '   | .; :   \__\/: . .  |  | '    .   '  /  | 
-   \   \   ' '  : |__    |  | '.'| :  | : ;  ; |    ," .--.; |  |  | '.'| '   : |: | |   :    |   ," .--.; |  ;  : |    '   ; |:  | 
-    \   `  ; |  | '.'|   ;  :    ; '  :  `--'   \  /  /  ,.  |  ;  :    ; |   | '/ :  \   \  /   /  /  ,.  |  |  , ;    |   | '/  ' 
-     :   \ | ;  :    ;   |  ,   /  :  ,      .-./ ;  :   .'   \ |  ,   /  |   :    |   `----'   ;  :   .'   \  ---'     |   :    :| 
-      '---"  |  ,   /     ---`-'    `--`----'     |  ,     .-./  ---`-'   /    \  /             |  ,     .-./            \   \  /   
-              ---`-'                               `--`---'               `-'----'               `--`---'                 `----'    
-</pre>
+<img width="946" height="247" alt="image" src="https://github.com/user-attachments/assets/c68cc75c-c309-4caf-82cd-31f913dfd387" />
+
 
 A real-time virtual whiteboard application that combines live camera feed with interactive drawing capabilities. The application overlays a transparent drawing canvas on top of the camera feed, allowing users to draw annotations while viewing the live video stream.
 
